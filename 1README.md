@@ -1,10 +1,6 @@
 # my profile 
-<p align="left">
-  <img src="[https://your-image-link.com/profile.jpg](https://i.postimg.cc/ThMrdMH2/Screenshot-2026-07-15-22-23-27.png)"
-       width="120"
-       style="border-radius:50%;"
-       align="left">
-</p>
+<img width="250" height="350" alt="ไม่มีชื่อ 26_20260715232011 (2)" src="https://github.com/user-attachments/assets/28a0dcbd-debe-49ef-9218-8ad62be24c6c" />
+
 
 <h2>น.ส.ณิชาภัทร แดมชัยภูมิ</h2>
 <p> ม.6/4 | เลขที่27</p>
