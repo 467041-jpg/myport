@@ -1,4 +1,4 @@
-# my profile 
+# my profile 📝
 <img width="250" height="350" alt="ไม่มีชื่อ 26_20260715232011 (2)" src="https://github.com/user-attachments/assets/28a0dcbd-debe-49ef-9218-8ad62be24c6c" />
 
 
